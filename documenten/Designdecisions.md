@@ -34,5 +34,5 @@ we onderzoeken of en in hoever de aangifte overlijden en verzoek verlof tot begr
 	- Conduction vertalen Haal centraal <-> StUF  API wordt gebruikt voor de MVP waarbij op een gemeentelijk datadistributie systeem wordt aangesloten.
 	
 - Toetsen wettelijke vereisten
-	- verlof to begraven
+	- verlof tot begraven
 
