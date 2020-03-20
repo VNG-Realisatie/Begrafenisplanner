@@ -18,7 +18,7 @@ we onderzoeken of en in hoever de aangifte overlijden en verzoek verlof tot begr
 
 **design decisions**
 
-de toe te passen design decisions zijn beschreven in [Designdecisions]( begrafenisplanner/documenten/designdecisions.md)
+de toe te passen design decisions zijn beschreven in [Designdecisions](documenten/Designdecisions.md)
 
 # Te zetten stappen:
 * Inventariseren van de (brede) klantreis van begrafenisondernemers en nabestaanden en de gemeentelijke dienstverlening daar goed in laten participeren.
