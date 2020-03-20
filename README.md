@@ -10,6 +10,10 @@ Met de begrafenisplanner realiseren we componenten op alle 5 architectuurlagen w
 * Aan te tonen dat we in staat zijn door samenwerking de administratieve lasten voor onze (regionale) klanten te verminderen.
 * Aan te tonen dat componenten van de Common Ground een goede basis leggen voor het ontwikkelen van andere gemeenschappelijke dienstverlening.
 
+**Afbakening**
+
+
+
 # Te zetten stappen:
 * Inventariseren van de (brede) klantreis van begrafenisondernemers en nabestaanden en de gemeentelijke dienstverlening daar goed in laten participeren.
 * Regels en beleid rond overlijden en begraven omzetten in businessrules of procesinrichting.
