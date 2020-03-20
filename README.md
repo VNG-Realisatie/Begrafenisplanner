@@ -3,7 +3,8 @@
 # Product visie:
 Met de begrafenisplanner realiseren we componenten op alle 5 architectuurlagen waarmee gemeenten een voorziening kunnen inrichten zodat begrafenisondernemers in staat zijn om via één ingang, volledig zelfstandig een begrafenis te regelen op elk van de 47 begraafplaatsen in Westfriesland.
 
-# We digitaliseren de begraafplaatsadministratie om:
+**We digitaliseren de begraafplaatsadministratie om:**
+
 * De dienstverlening aan begrafenisondernemers veel beter te maken.
 * Onze (lokale) processen efficiënter uit te kunnen voeren en de backoffice te ontlasten.
 * De digitale begraafplaatsadministratie eenvoudig op te schalen voor gebruik door andere begraafplaatsbeheerders.
@@ -12,6 +13,8 @@ Met de begrafenisplanner realiseren we componenten op alle 5 architectuurlagen w
 
 **Afbakening**
 
+De eerste aandacht gaat uit naar het organiseren van een begrafenis.
+we onderzoeken of en in hoever de aangifte overlijden en verzoek verlof tot begraven binnen de scope kan - of misschien wel moet - worden opgepakt.
 
 
 # Te zetten stappen:
