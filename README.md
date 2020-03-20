@@ -16,6 +16,9 @@ Met de begrafenisplanner realiseren we componenten op alle 5 architectuurlagen w
 De eerste aandacht gaat uit naar het organiseren van een begrafenis.
 we onderzoeken of en in hoever de aangifte overlijden en verzoek verlof tot begraven binnen de scope kan - of misschien wel moet - worden opgepakt.
 
+**design decisions**
+
+de toe te passen design decisions zijn beschreven in begrafenisplanner/documenten/designdecisions.md
 
 # Te zetten stappen:
 * Inventariseren van de (brede) klantreis van begrafenisondernemers en nabestaanden en de gemeentelijke dienstverlening daar goed in laten participeren.
