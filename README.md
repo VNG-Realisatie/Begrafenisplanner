@@ -30,4 +30,6 @@ de toe te passen design decisions zijn beschreven in [Designdecisions](documente
 * Voldoende beschikbare mensen en middelen.
 * Actieve en betrokken stakeholders met gemeenschappelijke visie op het project.
 
+# MVP
 
+* 
