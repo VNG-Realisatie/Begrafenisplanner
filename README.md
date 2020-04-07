@@ -31,21 +31,28 @@ de toe te passen design decisions zijn beschreven in [Designdecisions](documente
 * Actieve en betrokken stakeholders met gemeenschappelijke visie op het project.
 
 # MVP
+Op 1 oktober nemen we de begarfeinisplanner in gebruik
+## Epics MVP 1
+- [x] plannen van een begrafenis door een begrafenisondernemer op één van de gemeentelijke begraafplaatsen van Westfriesland 
+  - [x] plannen van alle verschillende typen begrafenis
+  - [x] Inzicht in de planning van de locatie (wanneer is waar plaats)
+  - [x] Reserveren van een datum en tijd
+  - [x] Toevoegen gegevens van overledene en belang- of rechthebbende personen (ophalen uit de BRP)
+  - [ ] keuze voor specifiek deel van de begraafplaats of een specifiek graf
+- [x] Toevoegen van opties voor het uitbreiden van de ceremonie, afhankelijk van de mogelijkheden van de begraafplaats
+- [x] Opstellen van een overzicht van de (standaard) kosten
+  - [ ] het betalen van de rekening valt nu nog buiten de MVP (mogelijk als optie opnemen binnen MVP)
+- [x] Functioneel beheer op de applicatie/registratie, Waaronder:
+ - [x] vaststellen van de lengte van de begrafenisceremonie
+ - [x] Planningsystematiek per begraafplaats inregelen
+- [x] Beheerder van de begraafplaats heeft een overzicht van alle geplande begrafenissen en de contactpersonen hiervan per begraafplaats
 
-## Epics:
-- [ ] plannen van een begravenis door een begrafenisondernemer op één van de gemeentelijke begraafplaatsen van Westfriesland 
- - [ ] plannen van alle verschillende typen begrafenis
- - [ ] Inzicht in de planning van de locatie (wanneer is waar plaats)
- - [ ] Reserveren van een datum en tijd
- - [ ] keuze voor specifiek deel van de begraafplaats of graf
- - [ ] lengte van de begrafenisceremonie
-- [ ] Toevoegen van opties voor het uitbreiden van de ceremonie, afhankelijk van de mogelijkheden van de begraafplaats
-- [ ] Opstellen & laten betalen van de rekening - direct inzicht in de kosten
-- [ ] Planningsystematiek per begraafplaats inregelen
-- [ ] Beheerder begraaflaats kan accepteren van de geplande begrafenis
+## Epics MVP 2
+- [ ] Beheerder begraaflaats kan bevestigen van de geplande begrafenis
   - [ ] acceptatie is lastig als we de begrafenisondernemer zelfstandig willen laten plannen (dan wil deze en de nabestaande zekerheid hebben)
-- [ ] De begrafenisondernemer levert alle informatie aan om aan de wettelijke eisen voor begrafen en de registratie in het begraafplaatsregister conform wetgeving uit te voeren
+- [ ] De begrafenisondernemer levert alle aanvullende informatie aan om aan de wettelijke eisen voor begrafen en de registratie in het begraafplaatsregister conform wetgeving uit te voeren
   - [ ] aangifte overlijden en verzoek tot verlof tot begraven valt nu buiten scope van deze MVP. Oppakken in tweede fase.
-- [ ] Functioneel beheer op de applicatie/registratie
+ 
+## Overige Epics (niet binnen scope)
 - [ ] Andere dienstverleners bieden ook hun gerelateerde diensten aan (bv. aula). Deze kunnen ook gereserveerd worden.
   - [ ] vraagt om afstemming met partners en toegang tot hun agenda
