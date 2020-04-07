@@ -46,6 +46,7 @@ Op 1 oktober nemen we de begrafenisplanner in gebruik, die de functionaliteit zo
  - [x] vaststellen van de lengte van de begrafenisceremonie
  - [x] Planningsystematiek per begraafplaats inregelen
 - [x] Beheerder van de begraafplaats heeft een overzicht van alle geplande begrafenissen en de contactpersonen hiervan per begraafplaats
+- [x] We registreren de processen zaakgericht en gebruiken hiervoor Open Zaak (conform ZGW API's).
 
 ## Epics MVP 2
 - [ ] Beheerder begraaflaats kan bevestigen van de geplande begrafenis
