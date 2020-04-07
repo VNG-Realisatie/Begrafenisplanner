@@ -33,7 +33,7 @@ de toe te passen design decisions zijn beschreven in [Designdecisions](documente
 # MVP
 
 ## Epics:
--[ ] plannen van een begravenis door een begrafenisondernemer op één van de gemeentelijke begraafplaatsen van Westfriesland 
+-[] plannen van een begravenis door een begrafenisondernemer op één van de gemeentelijke begraafplaatsen van Westfriesland 
   * plannen van alle verschillende typen begrafenis
   * Inzicht in de planning van de locatie (wanneer is waar plaats)
   * Reserveren van een datum en tijd
