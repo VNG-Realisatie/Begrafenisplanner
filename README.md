@@ -32,4 +32,20 @@ de toe te passen design decisions zijn beschreven in [Designdecisions](documente
 
 # MVP
 
-* 
+## Epics:
+. [ ] * plannen van een begravenis door een begrafenisondernemer op één van de gemeentelijke begraafplaatsen van Westfriesland 
+  * plannen van alle verschillende typen begrafenis
+  * Inzicht in de planning van de locatie (wanneer is waar plaats)
+  * Reserveren van een datum en tijd
+  * keuze voor specifiek deel van de begraafplaats of graf
+  * lengte van de begrafenisceremonie
+* Toevoegen van opties voor het uitbreiden van de ceremonie, afhankelijk van de mogelijkheden van de begraafplaats
+* Opstellen & laten betalen van de rekening - direct inzicht in de kosten
+* Planningsystematiek per begraafplaats inregelen
+* Beheerder begraaflaats kan accepteren van de geplande begrafenis
+  * acceptatie is lastig als we de begrafenisondernemer zelfstandig willen laten plannen (dan wil deze en de nabestaande zekerheid hebben)
+* De begrafenisondernemer levert alle informatie aan om aan de wettelijke eisen voor begrafen en de registratie in het begraafplaatsregister conform wetgeving uit te voeren
+  * aangifte overlijden en verzoek tot verlof tot begraven valt nu buiten scope van deze MVP. Oppakken in tweede fase.
+* Functioneel beheer op de applicatie/registratie
+* Andere dienstverleners bieden ook hun gerelateerde diensten aan (bv. aula). Deze kunnen ook gereserveerd worden.
+  * vraagt om afstemming met partners en toegang tot hun agenda
