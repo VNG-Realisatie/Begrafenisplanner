@@ -31,7 +31,7 @@ de toe te passen design decisions zijn beschreven in [Designdecisions](documente
 * Actieve en betrokken stakeholders met gemeenschappelijke visie op het project.
 
 # MVP
-Op 1 oktober nemen we de begarfeinisplanner in gebruik
+Op 1 oktober nemen we de begrafenisplanner in gebruik, die de functionaliteit zoals in MVP 1 is beschreven 
 ## Epics MVP 1
 - [x] plannen van een begrafenis door een begrafenisondernemer op één van de gemeentelijke begraafplaatsen van Westfriesland 
   - [x] plannen van alle verschillende typen begrafenis
