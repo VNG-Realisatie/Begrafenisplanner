@@ -43,8 +43,8 @@ Op 1 oktober nemen we de begrafenisplanner in gebruik, die de functionaliteit zo
 - [x] Opstellen van een overzicht van de (standaard) kosten
   - [ ] het betalen van de rekening valt nu nog buiten de MVP (mogelijk als optie opnemen binnen MVP)
 - [x] Functioneel beheer op de applicatie/registratie, Waaronder:
- - [x] vaststellen van de lengte van de begrafenisceremonie
- - [x] Planningsystematiek per begraafplaats inregelen
+    - [x] vaststellen van de lengte van de begrafenisceremonie
+    -  [x] Planningsystematiek per begraafplaats inregelen
 - [x] Beheerder van de begraafplaats heeft een overzicht van alle geplande begrafenissen en de contactpersonen hiervan per begraafplaats
 - [x] We registreren de processen zaakgericht en gebruiken hiervoor Open Zaak (conform ZGW API's).
 
