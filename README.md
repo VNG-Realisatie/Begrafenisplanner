@@ -51,7 +51,7 @@ Op 1 oktober nemen we de begrafenisplanner in gebruik, die de functionaliteit zo
 ## Epics MVP 2
 - [ ] Beheerder begraaflaats kan bevestigen van de geplande begrafenis
   - [ ] acceptatie is lastig als we de begrafenisondernemer zelfstandig willen laten plannen (dan wil deze en de nabestaande zekerheid hebben)
-- [ ] De begrafenisondernemer levert alle aanvullende informatie aan om aan de wettelijke eisen voor begrafen en de registratie in het begraafplaatsregister conform wetgeving uit te voeren
+- [ ] De begrafenisondernemer levert alle aanvullende informatie aan te voldoen om aan de wettelijke eisen voor begrafen en de registratie
   - [ ] aangifte overlijden en verzoek tot verlof tot begraven valt nu buiten scope van deze MVP. Oppakken in tweede fase.
  
 ## Overige Epics (niet binnen scope)
