@@ -52,8 +52,18 @@ Op 1 oktober nemen we de begrafenisplanner in gebruik, die de functionaliteit zo
 - [ ] Beheerder begraaflaats kan bevestigen van de geplande begrafenis
   - [ ] acceptatie is lastig als we de begrafenisondernemer zelfstandig willen laten plannen (dan wil deze en de nabestaande zekerheid hebben)
 - [ ] De begrafenisondernemer levert alle aanvullende informatie aan te voldoen om aan de wettelijke eisen voor begrafen en de registratie
-  - [ ] aangifte overlijden en verzoek tot verlof tot begraven valt nu buiten scope van deze MVP. Oppakken in tweede fase.
- 
+- [ ] aangifte overlijden en verzoek tot verlof tot begraven valt nu buiten scope van deze MVP. Oppakken in tweede fase.
+
+## Epics MVP 3 (voorlopig buiten scope)
+- [ ] De beheerder van de begraafplaats krijgt alle informatie om de processen rondom begraven digitaal af te handelen				
+- [ ] De belanghebbende of begrafenisondernemer kan de vergunning voor grafbedekking digitaal aanvragen en ontvangen				
+- [ ] De beheerder kan de verlenging van grafrechten eenvoudig en digitaal regelen				
+- [ ] Bij overlijden of emigratie van een belanghebbende wordt de zoektocht naar de nieuwe belanghebbende  klantvriendleijk en goed (digitaal) ondersteund.				
+- [ ] Iedereen kan zelfstandig het graf van een overledene op éen van de Westfriese begraafplaatsen vinden.				
+- [ ] De beheerfuncties op de begraafplaats worden digitaal ondersteund, waardoor de kwaliteit van het grafregister hoog blijft.				
+- [ ] Aangifte overlijden en aanvraag toestemming tot begraven/cremeren, etc kan samen met de begrafenis direct worden geregeld				
+
+
 ## Overige Epics (niet binnen scope)
 - [ ] Andere dienstverleners bieden ook hun gerelateerde diensten aan (bv. aula). Deze kunnen ook gereserveerd worden.
   - [ ] vraagt om afstemming met partners en toegang tot hun agenda
