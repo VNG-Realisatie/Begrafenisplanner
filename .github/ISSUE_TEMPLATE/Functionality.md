@@ -1,8 +1,8 @@
 ---
 name: 'Functionality'
-about: Beschrijving van een functionaliteit die gerealiseerd moet worden
+about: Beschrijving van een functionaliteit die gerealiseerd
 title: ''
-labels: ''
+labels: 'Selecteer de Epic waar deze bij hoort'
 assignees: ''
 
 ---
