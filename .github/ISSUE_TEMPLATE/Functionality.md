@@ -2,7 +2,7 @@
 name: 'Functionality'
 about: Beschrijving van een functionaliteit die gerealiseerd
 title: ''
-labels: 'Selecteer de Epic waar deze bij hoort'
+labels: 'function'
 assignees: ''
 
 ---
