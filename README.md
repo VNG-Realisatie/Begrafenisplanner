@@ -67,3 +67,9 @@ Op 1 oktober nemen we de begrafenisplanner in gebruik, die de functionaliteit zo
 ## Overige Epics (niet binnen scope)
 - [ ] Andere dienstverleners bieden ook hun gerelateerde diensten aan (bv. aula). Deze kunnen ook gereserveerd worden.
   - [ ] vraagt om afstemming met partners en toegang tot hun agenda
+  
+  
+## Work in pregress
+
+Begrafenisplannen (client-side): https://bpui.dev.begraven.zaakonline.nl/
+
