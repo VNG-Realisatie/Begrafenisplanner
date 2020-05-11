@@ -69,7 +69,7 @@ Op 1 oktober nemen we de begrafenisplanner in gebruik, die de functionaliteit zo
   - [ ] vraagt om afstemming met partners en toegang tot hun agenda
   
   
-## Work in pregress
+## Work in progress
 
-Begrafenisplannen (client-side): https://bpui.dev.begraven.zaakonline.nl/
+Begrafenisplanner (client-side): https://bpui.dev.begraven.zaakonline.nl/
 
