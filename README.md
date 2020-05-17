@@ -71,5 +71,7 @@ Op 1 oktober nemen we de begrafenisplanner in gebruik, die de functionaliteit zo
   
 ## Work in progress
 
+Ontwikkelomgeving:
 Begrafenisplanner (client-side): https://bpui.dev.begraven.zaakonline.nl/
+Begraafplaatsbeheer (employee-side): https://db.dev.begraven.zaakonline.nl/
 
