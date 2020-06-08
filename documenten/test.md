@@ -1,2 +1,0 @@
-**test**
-Lorem Ipsum enz.
