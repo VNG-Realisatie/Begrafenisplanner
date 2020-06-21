@@ -18,9 +18,9 @@ we onderzoeken of en in hoever de aangifte overlijden en verzoek verlof tot begr
 
 **ontwerpprincipes klantproces (klantreis)**
 
-De klant heeft regie op haar eigen proces. We faciliteren dit door het aanbieden van een component waarin de klant kan werken aan het formuleren van een verzoek. 
+De klant heeft regie op haar eigen proces. We faciliteren dit door het aanbieden van een component waarin de klant kan werken aan het formuleren van een verzoek. Dit is de begrafenisplannen. 
 
-Het verzoek:
+De planner:
 - Reserveert direct datum en tijd op een locatie voor de ondernemer
 - Ondersteunt de begrafenisondernemer bij het aanleveren van alle informatie die de gemeente nodig heeft
 - Schrijft niet voor in welke volgorde de informatie wordt verzameld
