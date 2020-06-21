@@ -16,6 +16,23 @@ We hanteren https://docs.geostandaarden.nl/api/API-Strategie/#versioning  als ui
 
 we onderzoeken of en in hoever de aangifte overlijden en verzoek verlof tot begraven binnen de scope kan - of misschien wel moet - worden opgepakt.
 
+**ontwerpprincipes klantproces (klantreis)**
+De klant heeft regie op haar eigen proces. We faciliteren dit door het aanbieden van een component waarin de klant kan werken aan het formuleren van een verzoek. 
+
+Het verzoek:
+- Reserveert direct datum en tijd op een locatie voor de ondernemer
+- Ondersteunt de begrafenisondernemer bij het aanleveren van alle informatie die de gemeente nodig heeft
+- Schrijft niet voor in welke volgorde de informatie wordt verzameld
+- Maximaliseert de prefill van bij de overheid bekende gegevens
+- Minimaliseert het gebruik van gegevens
+- Voert vereiste toetsen zo mogelijk direct uit
+- Regelt indien nodig instemming van derden (op onderdelen)
+- Laat het aanpassen van gegevens toe totdat het verzoek is ingediend
+- Maakt ondersteuning door een ambtenaar mogelijk
+- Verwijderd het volledige verzoek als het niet wordt ingediend
+- Staat corrigeren van gegevens toe
+- De klant vraagt eigen gegevens op en geeft bij indienen toestemming tot verwerking
+
 **Keuzes over het maken van zaken**
 
 
