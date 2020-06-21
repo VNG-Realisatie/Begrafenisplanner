@@ -17,6 +17,7 @@ We hanteren https://docs.geostandaarden.nl/api/API-Strategie/#versioning  als ui
 we onderzoeken of en in hoever de aangifte overlijden en verzoek verlof tot begraven binnen de scope kan - of misschien wel moet - worden opgepakt.
 
 **ontwerpprincipes klantproces (klantreis)**
+
 De klant heeft regie op haar eigen proces. We faciliteren dit door het aanbieden van een component waarin de klant kan werken aan het formuleren van een verzoek. 
 
 Het verzoek:
