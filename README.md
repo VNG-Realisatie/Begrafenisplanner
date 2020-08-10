@@ -73,7 +73,8 @@ Op 1 oktober nemen we de begrafenisplanner in gebruik, die de functionaliteit zo
 
 Ontwikkelomgeving:
 
-Begrafenisplanner (client-side): https://bpui.dev.begraven.zaakonline.nl/
+Begrafenisplanner (client-side): https://westfriesland.commonground.nu/
 
-Begraafplaatsbeheer (employee-side): https://db.dev.begraven.zaakonline.nl/
+Begraafplaatsbeheer (employee-side): hhttps://westfriesland.commonground.nu/
+(is nu dezelfde, alleen gebruiker kiezen als inlog)
 
