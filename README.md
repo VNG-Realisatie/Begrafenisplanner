@@ -75,6 +75,6 @@ Ontwikkelomgeving:
 
 Begrafenisplanner (client-side): https://westfriesland.commonground.nu/
 
-Begraafplaatsbeheer (employee-side): hhttps://westfriesland.commonground.nu/
+Begraafplaatsbeheer (employee-side): https://westfriesland.commonground.nu/
 (is nu dezelfde, alleen gebruiker kiezen als inlog)
 
