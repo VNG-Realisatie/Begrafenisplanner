@@ -56,3 +56,8 @@ De planner:
 - Toetsen wettelijke vereisten
 	- verlof tot begraven
 
+**Definities van rollen**
+
+- Indiener: degenne die het verzoek instuurt; de organisator van de begrafenis, vaak de begrafenisondernemer.
+- Aanvrager: Degene namens wie het verzoek wordt ingediend. Dit is meestal de nabestaande op wiens naam de overeenkomst/akte wordt gezet. Vaak degene die de factuur betaald.
+- Rechthebbende: Degene die beschikken mag over een particulier- of familiegraf.
