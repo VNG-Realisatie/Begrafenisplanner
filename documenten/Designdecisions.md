@@ -61,3 +61,5 @@ De planner:
 - Indiener: degenne die het verzoek instuurt; de organisator van de begrafenis, vaak de begrafenisondernemer.
 - Aanvrager: Degene namens wie het verzoek wordt ingediend. Dit is meestal de nabestaande op wiens naam de overeenkomst/akte wordt gezet. Vaak degene die de factuur betaald.
 - Rechthebbende: Degene die beschikken mag over een particulier- of familiegraf.
+- Belanghebbende: andere persoon of organisatie die een andere relatie heeft bij het graf. Dit kan een belang zijn om geinformeerd te worden bij wijzigingen. Ook kan het zijn dat voor de gemeenterelevant is deze relatie te leggen, zodat gegevens bekend zijn als dit nodi is bv. de steenhouder van het grafmonument.
+- Uitvaartverzorger: De persoon of organisatie die de uitvaart verzorgt en waar zo nodig contact mee moet worden opgenomen.
