@@ -1,0 +1,55 @@
+publiccodeYmlVersion: "0.2"
+name: Begrafenisplanner
+url: "https://github.com/VNG-Realisatie/Begrafenisplanner"
+softwareVersion: "1"
+releaseDate: "2021-05-06"
+platforms:
+  - web
+categories:
+  - it-development
+usedBy:
+  - Gemeente WestFriesland
+developmentStatus: development
+softwareType: standalone/web
+description:
+  nl:
+    localisedName: Begrafenisplanner
+    genericName: Begrafenisplanner
+    shortDescription: >-
+      Met de begrafenisplanner realiseren we componenten op alle 5 architectuurlagen waarmee gemeenten een voorziening kunnen inrichten zodat begrafenisondernemers in staat zijn om via één ingang, volledig zelfstandig een begrafenis te regelen op elk van de 47 begraafplaatsen in Westfriesland.
+    longDescription: >-
+      Met de begrafenisplanner realiseren we componenten op alle 5 architectuurlagen waarmee gemeenten een voorziening kunnen inrichten zodat begrafenisondernemers in staat zijn om via één ingang, volledig zelfstandig een begrafenis te regelen op elk van de 47 begraafplaatsen in Westfriesland.
+    documentation: "https://github.com/VNG-Realisatie/Begrafenisplanner/blob/master/README.md"
+    features:
+      - De dienstverlening aan begrafenisondernemers veel beter te maken.
+      - Onze (lokale) processen efficiënter uit te kunnen voeren en de backoffice te ontlasten.
+      - De digitale begraafplaatsadministratie eenvoudig op te schalen voor gebruik door andere begraafplaatsbeheerders.
+      - Aan te tonen dat we in staat zijn door samenwerking de administratieve lasten voor onze (regionale) klanten te verminderen.
+      - Aan te tonen dat componenten van de Common Ground een goede basis leggen voor het ontwikkelen van andere gemeenschappelijke dienstverlening.
+legal:
+  license: EUPL-1.2
+  mainCopyrightOwner: Conduction
+  repoOwner: Conduction
+maintenance:
+  type: external
+  contacts:
+    - name: Ruben van der Linde
+      email: ruben@conduction.nl
+localisation:
+  localisationReady: true
+  availableLanguages:
+    - nl
+    - en
+dependsOn:
+  open:
+    - name: proto-application-nldesign/pan
+    - name: procestypecatalogus/procestypecatalogus
+    - name: verzoektypecatalogus/verzoektypecatalogus
+    - name: verzoekregistratiecomponent/verzoekregistratiecomponent
+    - name: brpservice/brpservice
+    - name: landelijketabellencatalogus/landelijketabellencatalogus
+    - name: productenendienstencatalogus/productenendienstencatalogus
+    - name: orderregistratiecomponent/orderregistratiecomponent
+    - name: grafregistratiecomponent/grafregistratiecomponent
+    - name: agendaservice/agendaservice
+    - name: user-component/user-component
