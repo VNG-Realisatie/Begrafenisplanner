@@ -25,7 +25,7 @@ import integrationImage from '../images/undraw_hologram_fjwp.svg'
 const IndexPage = ({ location }) => (
   <Layout>
     <SEO title="Demodam is a fictitious municipal website that shows which reusable open source products and services are available for municipalities." />
-    <Background backgroundColor="#cbce1c">
+    <Background backgroundColor="#1C2F4E">
       <Container>
         <Navigation as="nav" location={location} />
         <Section>

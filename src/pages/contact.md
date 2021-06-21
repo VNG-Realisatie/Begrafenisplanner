@@ -1,26 +1,24 @@
----
-template: "default"
----
+  
+# Contact
+## Product Owner
+Gemeente Hoorn
 
-## TODO: Contact
+Telefoonnummer  
+0229 25 22 00 
 
-@@TODO Voeg informatie toe voor de contact pagina. Hieronder is een kopie van de openzaak website
+Bezoekadres  
+Nieuwe Steen 1  
+1625 HV Hoorn  
 
-### Vertegenwoordigers van Demodam kerngroep
+Postadres  
+Postbus 603  
+1620 AR Hoorn  
+## Technische realisatie
+[Conduction b.v.]( https://www.conduction.nl/)  
+[info@conduction.nl](mailto:info@conduction.nl)  
+[+31 (0)85 3036840](tel:+31(0)853036840)  
 
-
-### Vertegenwoordigers van de gemeentelijke deelnemers
-
-
-### Vertegenwoordigers van Demodam leveranciers
-
-
-
-## Kom in contact met de Demodam Community
-
-
-### Maandelijkse Technical Steering call
-
-
-
-### Maandelijkse Product Steering call
+Lauriergracht 14h  
+1016 RL Amsterdam  
+CoC: 76741850  
+Vat: NL860784241B01

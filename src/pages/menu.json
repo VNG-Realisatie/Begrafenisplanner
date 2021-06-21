@@ -1,28 +1,8 @@
 {
   "nl": [
     {
-      "title": "Nieuws",
-      "link": "/news/",
-      "partiallyActive": false
-    },
-    {
-      "title": "Sluit je aan",
-      "link": "/join",
-      "partiallyActive": true
-    },
-    {
-      "title": "Organisaties",
-      "link": "/organizations",
-      "partiallyActive": false
-    },
-    {
-      "title": "Ambassadeurs",
-      "link": "/ambassadors",
-      "partiallyActive": true
-    },
-    {
-      "title": "Governance",
-      "link": "/governance",
+      "title": "Installatie",
+      "link": "/installatie",
       "partiallyActive": true
     },
     {

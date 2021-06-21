@@ -25,7 +25,7 @@ import integrationImage from '../images/undraw_hologram_fjwp.svg'
 const IndexPage = ({ location }) => (
   <Layout>
     <SEO title="Begraven" />
-    <Background backgroundColor="#cbce1c">
+    <Background backgroundColor="#1C2F4E">
       <Container>
         <Navigation as="nav" location={location} />
         <Section>
@@ -33,7 +33,7 @@ const IndexPage = ({ location }) => (
         </Section>
       </Container>
     </Background>
-    <Background backgroundColor="#000000">
+    <Background backgroundColor="#CA464C">
       <Container>
         <Logos />
       </Container>
@@ -113,7 +113,7 @@ const IndexPage = ({ location }) => (
       </Section>
 
     </Container>
-    <Background backgroundColor="#f5f5f6">
+    <Background backgroundColor="#CA464C">
       <Container>
         <Section>
           <Heading align="center" fontSize="2rem">Roadmap</Heading>
