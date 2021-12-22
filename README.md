@@ -73,8 +73,8 @@ Op 1 oktober nemen we de begrafenisplanner in gebruik, die de functionaliteit zo
 
 Ontwikkelomgeving:
 
-Begrafenisplanner (client-side): https://westfriesland.commonground.nu/
+Begrafenisplanner (client-side): nu niet actief
 
-Begraafplaatsbeheer (employee-side): https://westfriesland.commonground.nu/
-(is nu dezelfde, alleen gebruiker kiezen als inlog)
+Begraafplaatsbeheer (employee-side): nu niet actief
+
 
